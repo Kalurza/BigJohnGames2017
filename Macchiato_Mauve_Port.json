@@ -338,7 +338,7 @@
       "#9fa7c5"
     ],
     "MENTION_FOREGROUND": [
-      "#8289a4"
+      "#00b4d81a"
     ],
     "MOBILE_TEXT_HEADING_PRIMARY": [
       "#8788F0"
@@ -827,16 +827,16 @@
     "YELLOW_860": "#eed49f",
     "YELLOW_900": "#eed49f",
     "WHITE": "#24273a",
-    "CHAT_MENTIONS_BACKGROUND_DARK": "#c6a0f64d",
-    "CHAT_MENTIONS_BACKGROUND_LIGHT": "#c6a0f64d",
-    "CHAT_MENTIONS_FOREGROUND_DARK": "#c6a0f6",
-    "CHAT_MENTIONS_FOREGROUND_LIGHT": "#c6a0f6"
+    "CHAT_MENTIONS_BACKGROUND_DARK": "#00b4d81a",
+    "CHAT_MENTIONS_BACKGROUND_LIGHT": "#00b4d81a",
+    "CHAT_MENTIONS_FOREGROUND_DARK": "#00b4d81a",
+    "CHAT_MENTIONS_FOREGROUND_LIGHT": "#00b4d81a"
   },
   "spec": 2,
   "plus": {
     "version": "0",
     "customOverlays": true,
-    "mentionLineColor": "#eed49f",
+    "mentionLineColor": "#00b4d81a",
     "icons": {
       "ic_close_24px": "#cad3f5",
       "ic_radio_circle_checked": "#c6a0f6",
