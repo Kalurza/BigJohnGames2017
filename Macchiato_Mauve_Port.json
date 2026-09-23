@@ -40,8 +40,7 @@
       "#181926"
     ],
     "BACKGROUND_MENTIONED": [
-      "#eed49f17",
-      "#eed49f17"
+      "#00b4d81a"
     ],
     "BACKGROUND_MENTIONED_HOVER": [
       "#939ab7",
@@ -52,8 +51,8 @@
       "#1e2030"
     ],
     "BACKGROUND_MOBILE_SECONDARY": [
-      "#000000",
-      "#000000"
+      "#181926",
+      "#181926"
     ],
     "BACKGROUND_MODIFIER_ACCENT": [
       "#363a4f",
@@ -360,7 +359,7 @@
       "#8289a4"
     ],
     "MOBILE_TEXT_HEADING_PRIMARY": [
-      "#c6cff0"
+      "#8788F0"
     ],
     "MOBILE_VOICE_MESSAGE_RECORDING_WAVEFORM_BAR_BACKGROUND": [
       "#6a6f88"
@@ -369,10 +368,10 @@
       "#c6cff0"
     ],
     "REACTION_TEXT_DEFAULT": [
-      "#9fa7c5"
+      "#8788F0"
     ],
     "REACTION_TEXT_REACTED_DEFAULT": [
-      "#a9b1cf"
+      "#8788F0"
     ],
     "REDESIGN_BUTTON_TERTIARY_TEXT": [
       "#8289a4"
@@ -388,18 +387,18 @@
       "#ed8796"
     ],
     "TEXT_MENTION": [
-      "#8289a4"
+      "#786FA4"
     ],
     "TEXT_NORMAL": [
       "#cad3f5",
       "#cad3f5"
     ],
     "TEXT_PRIMARY": [
-      "#cad3f5",
-      "#cad3f5"
+      "#9F9AD6",
+      "#9F9AD6"
     ],
     "TEXT_SECONDARY": [
-      "#9fa7c5"
+      "#868EC5"
     ],
     "TEXT_STRONG": [
       "#cad3f5"
