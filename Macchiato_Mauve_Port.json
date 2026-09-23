@@ -43,8 +43,7 @@
       "#00b4d81a"
     ],
     "BACKGROUND_MENTIONED_HOVER": [
-      "#939ab7",
-      "#939ab7"
+      "#00b4d81a"
     ],
     "BACKGROUND_MOBILE_PRIMARY": [
       "#24273a",
@@ -489,7 +488,7 @@
       "#c6a0f6"
     ],
     "REPLY_BAR": [
-      "#c6a0f6"
+      "#00b4d81a"
     ],
     "CHANNEL_BACKGROUND_DEFAULT": [
       "#181926",
