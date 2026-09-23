@@ -9,7 +9,7 @@
       "name": "Catppuccin John Port"
     }
   ],
-  "semanticColors": {
+   "semanticColors": {
     "ANDROID_NAVIGATION_BAR_BACKGROUND": [
       "#181926"
     ],
@@ -34,7 +34,7 @@
       "#443649"
     ],
     "BACKGROUND_FLOATING": [
-      "#181926"
+      "#363a4f"
     ],
     "BACKGROUND_MESSAGE_HOVER": [
       "#181926"
@@ -95,7 +95,7 @@
       "#363a4f"
     ],
     "BG_BACKDROP": [
-      "#181926"
+      "#363a4f"
     ],
     "BG_BASE_PRIMARY": [
       "#24273a",
@@ -116,7 +116,7 @@
       "#363a4f"
     ],
     "CARD_MUTED_BG": [
-      "#181926"
+      "#363a4f"
     ],
     "CARD_SECONDARY_BG": [
       "#181926"
@@ -135,7 +135,7 @@
       "#181926"
     ],
     "CONTEXT_MENU_BACKDROP_BACKGROUND": [
-      "#181926"
+      "#363a4f"
     ],
     "CONTROL_CONNECTED_BACKGROUND_DEFAULT": [
       "#363a4f"
@@ -163,7 +163,7 @@
       "#1e2030"
     ],
     "HOME_BACKGROUND": [
-      "#181926"
+      "#363a4f"
     ],
     "INPUT_BACKGROUND": [
       "#181926",
@@ -179,13 +179,13 @@
       "#24273a"
     ],
     "MODAL_BACKGROUND": [
-      "#181926"
+      "#363a4f"
     ],
     "MODAL_FOOTER_BACKGROUND": [
-      "#181926"
+      "#363a4f"
     ],
     "MOBILE_ACTIONSHEET_BACKGROUND": [
-      "#181926E4"
+      "#363a4fE4"
     ],
     "MOBILE_EMBED_BACKGROUND_DEFAULT": [
       "#181926"
@@ -194,7 +194,7 @@
       "#24273a"
     ],
     "MOBILE_FLOATING_ACCESSORY_BACKGROUND": [
-      "#181926"
+      "#363a4f"
     ],
     "MOBILE_FLOATINGBAR_BACKGROUND": [
       "#181926"
@@ -224,10 +224,10 @@
       "#363a4f"
     ],
     "PROFILE_BODY_BACKGROUND": [
-      "#181926"
+      "#363a4f"
     ],
     "PROFILE_GRADIENT_OVERLAY_COLOR_1": [
-      "#181926"
+      "#363a4f"
     ],
     "PROFILE_GRADIENT_OVERLAY_COLOR_2": [
       "#1e2030"
@@ -236,7 +236,7 @@
       "#363a4f"
     ],
     "PROFILE_GRADIENT_PRIMARY_COLOR_1": [
-      "#181926"
+      "#363a4f"
     ],
     "PROFILE_GRADIENT_PRIMARY_COLOR_2": [
       "#1e2030"
@@ -312,10 +312,10 @@
       "#ed8796"
     ],
     "CONTROL_EXPRESSIVE_TEXT_DEFAULT": [
-      "#24273a"
+      "#181926"
     ],
     "CONTROL_PRIMARY_TEXT_DEFAULT": [
-      "#24273a"
+      "#181926"
     ],
     "CONTROL_SECONDARY_TEXT_DEFAULT": [
       "#cad3f5"
