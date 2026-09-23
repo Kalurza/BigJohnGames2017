@@ -9,7 +9,7 @@
       "name": "Catppuccin John Port"
     }
   ],
-"semanticColors": {
+  "semanticColors": {
     "ANDROID_NAVIGATION_BAR_BACKGROUND": [
       "#181926"
     ],
@@ -203,7 +203,7 @@
       "#212435"
     ],
     "MOBILE_FLOATINGBAR_BACKGROUND_SCRIM": [
-      "#"
+      "#181926"
     ],
     "MOBILE_SEARCHBAR_GRADIENT_BACKGROUND": [
       "#181926"
